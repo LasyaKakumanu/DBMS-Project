@@ -18,4 +18,4 @@ https://youtu.be/lgDc2UPfuWE
 https://github.com/LasyaKakumanu/DBMS-Project
 
 # Project Description
-This is a Hotel Management System with admin_info, food_info, guest_info and room_info created as tables
+A Hotel Management System (HMS) using CRUD operations involves creating, retrieving, updating, and deleting information related to hotel management. CRUD operations are fundamental actions performed on data in a database, and they are essential for managing the various aspects of a hotel, such as rooms, reservations, guest information, and more.
