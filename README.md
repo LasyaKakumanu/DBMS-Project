@@ -11,8 +11,11 @@ Ranapratap24 : Y583R867 : Rana Pratap Ramireddy
 
 ## PROJECT VIDEO DEMO LINK :
 <br>
-
+https://youtu.be/lgDc2UPfuWE
 <br>
 
+## GitHub
+https://github.com/LasyaKakumanu/DBMS-Project
+
 # Project Description
-This is a Hotel Management System with admin_info, food_info, guest_info and room_info
+This is a Hotel Management System with admin_info, food_info, guest_info and room_info created as tables
